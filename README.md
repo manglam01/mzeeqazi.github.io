@@ -1,2 +1,2 @@
 # mzeeqazi.github.io
-This is resume for Muhammad Zeeshan Qazi.
+This is personal page for Muhammad Zeeshan Qazi.
